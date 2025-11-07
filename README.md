@@ -6,6 +6,11 @@
   <p>
     <em>Exploring the intersection of AI and human behavior understanding</em>
   </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/umberto-mazzucchelli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:mazzucchelli.u@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
   
   <p>
     <img src="https://img.shields.io/badge/Focus-Deep%20Learning-red?style=flat-square" />
@@ -34,9 +39,6 @@
 ---
 
 <div align="center">
-
-Hi, I'm **Umberto**! I am a CS PhD student at Northeastern University.  
-I am passionate about tech and work on **Deep Learning for Human Activity Recognition**.
 
 [![](https://raw.githubusercontent.com/umbertomazzucchelli/umbertomazzucchelli/main/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/umbertomazzucchelli/umbertomazzucchelli/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/umbertomazzucchelli/umbertomazzucchelli/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
