@@ -1,11 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=Umberto%20Mazzucchelli&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=CS%20PhD%20Student%20@%20Northeastern%20University&descAlignY=55&descSize=20" />
   
-  <h3>🧠 Deep Learning Researcher | 🎯 Human Activity Recognition </h3>
-  
-  <p>
-    <em>Exploring the intersection of AI and human behavior understanding</em>
-  </p>
+  <h3>Deep Learning Researcher | Human Activity Recognition </h3>
 
   <p>
     <a href="https://www.linkedin.com/in/umberto-mazzucchelli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
