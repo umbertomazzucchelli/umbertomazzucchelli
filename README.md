@@ -1,6 +1,7 @@
 # Umberto Mazzucchelli
 
 CS PhD student at Northeastern University · [mHealth Research Group](https://mhealthresearchgroup.org) · [Intille Lab](https://www.khoury.northeastern.edu/home/intille/)
+
 I work on deep learning for human activity recognition, wearable sensor data processing, and privacy in mHealth systems.
 
 [LinkedIn](https://www.linkedin.com/in/umberto-mazzucchelli/) · [Email](mailto:mazzucchelli.u@northeastern.edu)
