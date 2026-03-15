@@ -18,7 +18,11 @@ I work on deep learning for human activity recognition, wearable sensor data pro
 ## Skills
 
 **Languages:** Python · C · Bash · R · LaTeX
+
 **ML / DL:** PyTorch · scikit-learn · GGIR · CNNs · LSTMs/GRUs
+
 **Data:** NHANES · ActiGraph · pandas · NumPy
+
 **Infra:** SLURM · HPC clusters · Globus · conda / uv · Git · Linux
+
 **LLMs:** HuggingFace Transformers · Gemini API · Anthropic API
