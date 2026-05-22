@@ -1,6 +1,6 @@
 # Umberto Mazzucchelli
 
-CS PhD student at Northeastern University · [mHealth Research Group](https://mhealthresearchgroup.org) · [Intille Lab](https://www.khoury.northeastern.edu/home/intille/)
+CS PhD student at Northeastern University · [mHealth Research Group](https://www.mhealthgroup.org/) · [Intille Lab](https://www.khoury.northeastern.edu/home/intille/)
 
 I work on deep learning for human activity recognition, wearable sensor data processing, and privacy in mHealth systems.
 
@@ -17,7 +17,7 @@ I work on deep learning for human activity recognition, wearable sensor data pro
 
 ## Skills
 
-**Languages:** Python · C · Bash · R · LaTeX
+**Languages:** Python · C · Bash
 
 **ML / DL:** PyTorch · scikit-learn · GGIR · CNNs · LSTMs/GRUs
 
